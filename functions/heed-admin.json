@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "heed-siigo-hackathon",
+  "private_key_id": "5e7774b86632613ba9f701814f8e887078203882",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2aRwRN8zPhrC7\nPwjf3LGVSgGmafVK5j775ZNo8gCKdjmDXzlfBx0z3Ub7ANZTYvU+P+qNff1zdu04\nauGBxleg5jwQ1yJkmv3r2GZJn58aDGhID98AJ0sG0j6DabjmOwo/YbJg1SWCjs7U\nhmZUR/i7v9a4K6yEnEeUtAD20xCk/Nwfz1l8QSxSM4GQfReTUWDzDHHt/ascVlHy\nzX7fmlMeb1WKFkGL9oF6bHhNdz8wbpYHzqFy0HjCHHhuHA95I4JH0Cmdyq1GFXin\nLOMnUvQz3446IFQB0b3HsIswRrtwxOh2QGJmUN/wbtoiZux04nPEdMUkzqm6B3Wm\nykuUIdwBAgMBAAECggEAFdc6BBnBTSvcZ18hyeQb4zssPWe8dg5hhjmzz8ICLJIB\nSuiQ7v7kETyybgVopC1aHez7QZvPSA76UmIBxE8iWOKYWI/Zz1/7fUy42qHhI/ZO\nWiqEUflic1ujHor/F5oEHRiuigebaSl+PFYnVHoVny1WIVEhY/NuYrC22NbmzEpC\nritO7Jo5x3+nCxMbzHxKU/B5eUs4dfr+WORdl6zypD/O/yOgQ4Zjrs389PGXFenL\nOkUF3Ut6rKsAPvLEAbsm7qgdPrtnArA8hrDF9w4ursAWs2iZr8tQjVpIzb2i+b2A\n+s8jWOwSnTNrB8zyvEV1LKTPUtozW6Z951PiifMOXQKBgQDfXQzbu/toJzYM7kxR\nIjTSeFh01AWOF5v3gaBwY67jWFuzYgbi1AlUf1cVeSNpe0MxAU+dALP0aA5wTHAD\nDzsRmpiMKHgDJpfzlcAGU3R3QVfShdONHDoXg18+zFIsvnF8Yu/fvDdXC0l7dh4w\nzv/hWYTlVjnoGZR4YYfFUWOd9wKBgQDREDWV3PGulHL7YRnP4iaLqolFPZJmYhUz\nQ7Ul12mEjHsTbbEbNvFYRDRanEL/+M2H7lBLp0b2NFolbfJKDoXtRg8RFSBd6Rkh\nA0oQaWE4gStkjK9D9tFZlC+wzlw2gHX65I+AirwEXiWn6BWgXgIa0KiwnHQgJKVw\nw+FXlM43xwKBgQDC0dxHQ/0SaTEBsk+qbJV6BjHRJKT7vKfzB4MyxB9keErzeUrc\nSWkh5DfGqPQ0Kqj+c1BHdrd/M8t0M5d3c69nuVnY1etnhCAA+9qTKfNpmPrKyqMs\nbzRUEeffVENQd4NwpLLoiLgUGeor32iR1drlaTk69yxmvvj6zsanWkfzHQKBgQC+\nMcbuLfFZaAgrFa2L6Cw1B9KWQWu85SJwXvqgEJcYVU1q4XIsVhG+wV33yQ1THiCt\nt2spSGdQeVRBlQLFyOyibggq/FNT3EpWNE3fHF+sLicx9KNGa3cNzbiNW0+c7cVn\nmSPMR2rBdn0/ge6a1KuJhabR9aPX0j8IlcueB+yL5QKBgD3AUO4f1yTJCui/FT0b\nWd4BWWK42tCM10a8BJMEwY9+PHbcX7hueXuwr+GKUrPcu4Y0bQ4UbgghdSg606ql\n5hW1g9k86UwqRxPhCG9iAnjQ1bMD5sONcmJbqkBcCdeFddhylvr6ZWhgA1Aefef8\nZFfnsJ3dsMPQmoJR3+gYS/SX\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-yo51k@heed-siigo-hackathon.iam.gserviceaccount.com",
+  "client_id": "100620368151667060173",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-yo51k%40heed-siigo-hackathon.iam.gserviceaccount.com"
+}
